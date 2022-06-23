@@ -3,3 +3,5 @@ Coup
 Ticket to Ride
 Wingspan
 Azul
+Seven Wonders (if I didn't win the first time)
+Multiple Solitaire (iterate until we all go out)
